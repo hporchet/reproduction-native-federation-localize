@@ -14,6 +14,7 @@ export default withNativeFederation({
     requiredVersion: 'auto',
   }).get(),
   features: {
+    denseChunking: true,
     integrityHashes: true,
   },
 });
