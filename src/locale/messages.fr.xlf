@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="homeHeading" datatype="html">
+        <source>Federated lazy route</source>
+        <target>Route federée chargée à la demande</target>
+      </trans-unit>
+      <trans-unit id="homeDescription" datatype="html">
+        <source>This route is loaded on demand.</source>
+        <target>Cette route est chargée à la demande.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
